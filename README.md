@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+              <td align="center">
+                <a href="https://github.com/Saadkhanx">
+                    <img src="https://avatars.githubusercontent.com/u/115053707?v=4" width="100px;" alt="Saad Khan"/>
+                    <br />
+                    <sub><b>Dhruv Kotwani</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>

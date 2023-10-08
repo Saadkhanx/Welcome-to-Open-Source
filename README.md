@@ -1713,7 +1713,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Saadkhanx">
                     <img src="https://avatars.githubusercontent.com/u/115053707?v=4" width="100px;" alt="Saad Khan"/>
                     <br />
-                    <sub><b>Dhruv Kotwani</b></sub>
+                    <sub><b>Saad Khan</b></sub>
                 </a>
             </td>
         </tr>
